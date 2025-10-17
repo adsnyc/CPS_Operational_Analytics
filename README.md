@@ -2,7 +2,6 @@
 
 **Tools & Methods:** Excel | Descriptive & Predictive Analytics | Time-Series Forecasting | Clustering | Cost-Benefit Modeling  
 **Domain:** Urban Mobility | Operations | Pricing Optimization  
-**Type:** Independent Business Analytics Project  
 
 ---
 
